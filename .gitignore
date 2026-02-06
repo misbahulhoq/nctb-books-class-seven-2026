@@ -1,0 +1,6 @@
+archives
+uploaded_archive
+*.js
+*.sh
+node_modules
+.env*
