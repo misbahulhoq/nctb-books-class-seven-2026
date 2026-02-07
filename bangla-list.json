@@ -1,0 +1,222 @@
+[
+  {
+    "id": "class_7_saptabarna_bn",
+    "serial_number": 1,
+    "title": "সপ্তবর্ণা",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_bangla.pdf"
+  },
+  {
+    "id": "class_7_ananda_path_bn",
+    "serial_number": 2,
+    "title": "আনন্দ পাঠ",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_anandapath.pdf"
+  },
+  {
+    "id": "class_7_bangla_grammar_bn",
+    "serial_number": 3,
+    "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_bangla-bakoron.pdf"
+  },
+  {
+    "id": "class_7_english_for_today_bn",
+    "serial_number": 4,
+    "title": "English For Today",
+    "class": 7,
+    "level": "secondary",
+    "language": "english",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_english-for-today.pdf"
+  },
+  {
+    "id": "class_7_english_grammar_bn",
+    "serial_number": 5,
+    "title": "English Grammar and Composition",
+    "class": 7,
+    "level": "secondary",
+    "language": "english",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_english-grammar.pdf"
+  },
+  {
+    "id": "class_7_math_bn",
+    "serial_number": 6,
+    "title": "গণিত",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_math.pdf"
+  },
+  {
+    "id": "class_7_bd_global_studies_bn",
+    "serial_number": 7,
+    "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_bgs.pdf"
+  },
+  {
+    "id": "class_7_science_bn",
+    "serial_number": 8,
+    "title": "বিজ্ঞান",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_science.pdf"
+  },
+  {
+    "id": "class_7_ict_bn",
+    "serial_number": 9,
+    "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-class-seven-2026/bangla-version/ict.pdf"
+  },
+  {
+    "id": "class_7_agriculture_bn",
+    "serial_number": 10,
+    "title": "কৃষি শিক্ষা",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_krishi.pdf"
+  },
+  {
+    "id": "class_7_physical_education_bn",
+    "serial_number": 11,
+    "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-class-seven-2026/bangla-version/sharirik-shikkha.pdf"
+  },
+  {
+    "id": "class_7_work_life_oriented_education_bn",
+    "serial_number": 12,
+    "title": "কর্ম ও জীবনমুখী শিক্ষা",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-class-seven-2026/bangla-version/kormo.pdf"
+  },
+  {
+    "id": "class_7_islam_bn",
+    "serial_number": 13,
+    "title": "ইসলাম শিক্ষা",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_islam.pdf"
+  },
+  {
+    "id": "class_7_hindu_bn",
+    "serial_number": 14,
+    "title": "হিন্দুধর্ম শিক্ষা",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_hindu.pdf"
+  },
+  {
+    "id": "class_7_christian_bn",
+    "serial_number": 15,
+    "title": "খ্রীষ্টধর্ম শিক্ষা",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_christian.pdf"
+  },
+  {
+    "id": "class_7_buddhist_bn",
+    "serial_number": 16,
+    "title": "বৌদ্ধধর্ম শিক্ষা",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_buddhist.pdf"
+  },
+  {
+    "id": "class_7_arts_crafts_bn",
+    "serial_number": 17,
+    "title": "চারু ও কারুকলা",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-class-seven-2026/bangla-version/art-and-craft.pdf"
+  },
+  {
+    "id": "class_7_home_science_bn",
+    "serial_number": 18,
+    "title": "গার্হস্থ্য বিজ্ঞান",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/bangla-version_garhosto.pdf"
+  },
+  {
+    "id": "class_7_music_bn",
+    "serial_number": 19,
+    "title": "সংগীত",
+    "class": 7,
+    "level": "secondary",
+    "language": "arabic",
+    "version": "bangla-version",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-class-seven-2026/bangla-version/songit.pdf"
+  },
+  {
+    "id": "class_7_sanskrit_bn",
+    "serial_number": 20,
+    "title": "সংস্কৃত",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-class-seven-2026/bangla-version/songskrit.pdf"
+  },
+  {
+    "id": "class_7_arabic_bn",
+    "serial_number": 21,
+    "title": "সহজ আরবি পাঠ",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-class-seven-2026/bangla-version/arabic.pdf"
+  },
+  {
+    "id": "class_7_pali_bn",
+    "serial_number": 22,
+    "title": "পালি",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "bangla-version",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-class-seven-2026/bangla-version/pali.pdf"
+  }
+]
