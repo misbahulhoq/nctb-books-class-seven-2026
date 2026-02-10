@@ -1,0 +1,162 @@
+[
+  {
+    "id": "class_7_saptabarna_dk",
+    "serial_number": 1,
+    "title": "সপ্তবর্ণা",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/dakhil_bangla.pdf"
+  },
+  {
+    "id": "class_7_bangla_grammar_dk",
+    "serial_number": 2,
+    "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/dakhil_bangla-bakoron.pdf"
+  },
+  {
+    "id": "class_7_english_for_today_dk",
+    "serial_number": 3,
+    "title": "English For Today",
+    "class": 7,
+    "level": "secondary",
+    "language": "english",
+    "version": "dakhil",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/dakhil_english-for-today.pdf"
+  },
+  {
+    "id": "class_7_english_grammar_dk",
+    "serial_number": 4,
+    "title": "English Grammar and Composition",
+    "class": 7,
+    "level": "secondary",
+    "language": "english",
+    "version": "dakhil",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/dakhil_english-grammar.pdf"
+  },
+  {
+    "id": "class_7_math_dk",
+    "serial_number": 5,
+    "title": "গণিত",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/dakhil_math.pdf"
+  },
+  {
+    "id": "class_7_bd_global_studies_dk",
+    "serial_number": 6,
+    "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/dakhil_bgs.pdf"
+  },
+  {
+    "id": "class_7_science_dk",
+    "serial_number": 7,
+    "title": "বিজ্ঞান",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/dakhil_science.pdf"
+  },
+  {
+    "id": "class_7_ict_dk",
+    "serial_number": 8,
+    "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-class-seven-2026/dakhil/ict.pdf"
+  },
+  {
+    "id": "class_7_arabic_dk",
+    "serial_number": 9,
+    "title": "আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/dakhil_arabic.pdf"
+  },
+  {
+    "id": "class_7_quran_dk",
+    "serial_number": 10,
+    "title": "কুরআন মাজিদ ও তাজভিদ",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/dakhil_quran.pdf"
+  },
+  {
+    "id": "class_7_akaid_dk",
+    "serial_number": 11,
+    "title": "আকাইদ ও ফিকহ",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/dakhil_akaid.pdf"
+  },
+  {
+    "id": "class_7_qawaid_dk",
+    "serial_number": 12,
+    "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/dakhil_qawaid.pdf"
+  },
+  {
+    "id": "class_7_agriculture_dk",
+    "serial_number": 13,
+    "title": "কৃষি শিক্ষা",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/dakhil_krishi.pdf"
+  },
+  {
+    "id": "class_7_physical_education_dk",
+    "serial_number": 14,
+    "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-class-seven-2026/dakhil/sharirik-shikkha.pdf"
+  },
+  {
+    "id": "class_7_work_life_oriented_education_dk",
+    "serial_number": 15,
+    "title": "কর্ম ও জীবনমুখী শিক্ষা",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://cdn.jsdelivr.net/gh/misbahulhoq/nctb-books-class-seven-2026/dakhil/kormo.pdf"
+  },
+  {
+    "id": "class_7_home_science_dk",
+    "serial_number": 16,
+    "title": "গার্হস্থ্য বিজ্ঞান",
+    "class": 7,
+    "level": "secondary",
+    "language": "bangla",
+    "version": "dakhil",
+    "pdf_url": "https://github.com/misbahulhoq/nctb-books-class-seven-2026/releases/download/class-seven/dakhil_garhosto.pdf"
+  }
+]
